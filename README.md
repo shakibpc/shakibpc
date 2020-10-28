@@ -45,10 +45,9 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shakibpc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shakibhossain1020@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/shakibpc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Md.%20Shakib%20Hossainh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:shakibhossain1020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shakibhossain1020@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [shakibpc](https://github.com/shakibpc)
