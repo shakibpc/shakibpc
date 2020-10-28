@@ -1,4 +1,6 @@
 <h2> Hey there! I'm Shakib.</h2>
+<h3> My Resume</h3>
+<a href="https://drive.google.com/file/d/1iS827W2iFxFvdXLDjeI0t_Yt8MLtstbK/view?usp=sharing">Resume of Shakib</a>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
