@@ -1,7 +1,9 @@
 <h2> Hey there! I'm Shakib.</h2>
 <h3> My Resume</h3>
 <a href="https://drive.google.com/file/d/1iS827W2iFxFvdXLDjeI0t_Yt8MLtstbK/view?usp=sharing">Resume of Shakib</a>
+<br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -31,6 +33,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+
 
 <a href="https://github.com/shakibpc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakibpc&theme=buefy&show_icons=true" />
